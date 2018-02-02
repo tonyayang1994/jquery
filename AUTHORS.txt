@@ -1,5 +1,5 @@
 Authors ordered by first contribution.
-tonyaYang
+美丽的杨冬妮·
 John Resig <jeresig@gmail.com>
 Gilles van den Hoven <gilles0181@gmail.com>
 Michael Geary <mike@geary.com>
