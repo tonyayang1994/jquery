@@ -12,4 +12,4 @@ drwxr-xr-x 1 RD001 197609     0 2月   2 14:33 external/
 drwxr-xr-x 1 RD001 197609     0 2月   2 14:33 src/
 drwxr-xr-x 1 RD001 197609     0 2月   2 14:33 test/
 -rw-r--r-- 1 RD001 197609     0 2月   2 14:46 XXX.txt
-hello
+hello o
